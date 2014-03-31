@@ -1,0 +1,28 @@
+{
+  "name": "drool",
+  "version": "1.0.0",
+  "description": "Dice notation roller",
+  "main": "lib/drool.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matteckert/drool.git"
+  },
+  "keywords": [
+    "dice"
+  ],
+  "author": "Matt Eckert <me@matteckert.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matteckert/drool/issues"
+  },
+  "homepage": "https://github.com/matteckert/drool",
+  "devDependencies": {
+    "should": "~3.2.0"
+  }
+}

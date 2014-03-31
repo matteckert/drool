@@ -1,4 +1,7 @@
 drool
 =====
 
-dice roller based on pools of dice
+notation-based dice roller
+
+supports result transformation callback
+
